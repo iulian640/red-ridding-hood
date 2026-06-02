@@ -1,15 +1,46 @@
-Planificación de mi página de cuento
+# Little Red Riding Hood
 
-1. Stich
-   
-   <img width="2559" height="1396" alt="image" src="https://github.com/user-attachments/assets/27718c1d-7ee3-4271-97e9-d96f36439969" />
+Página web del cuento de Caperucita Roja, hecha con HTML y CSS.
 
-3. Organización inicial de commit
-   
-   <p>feat. Estructura del html</p>
-   <p>feat: añadir imágenes</p>
-   <p>feat: añadir el texto del cuento</p>
-   <p>style: configurar la tipografía y sus colores</p>
-   <p>style: configurar el layout y espaciado</p>
-   <p>style: configurar letras capitales</p>
-   <p>style: configurar responsive</p>
+
+## Sobre la página
+
+Es una página que recrea el diseño editorial de una revista para contar el cuento de Caperucita Roja. El objetivo era replicar un diseño dado usando solo HTML y CSS.
+
+## Tecnologías usadas
+
+- HTML5
+- CSS3
+- Google Fonts (EB Garamond para el texto y Hanken Grotesk para los títulos)
+
+## Estructura del proyecto
+
+```
+red-ridding-hood/
+├── index.html
+├── style.css
+├── assets/
+│   ├── caperucitahero.png
+│   └── casita.png
+└── README.md
+```
+
+## Qué he practicado
+
+- Estructura semántica de HTML
+- Tipografía con Google Fonts
+- Letra capital con `float`
+- Centrar elementos con `max-width` y `margin: auto`
+- Selectores de CSS como `article p` o `article img`
+
+## Planificación de commits
+
+```
+feat: estructura del html
+feat: añadir imágenes
+feat: añadir el texto del cuento
+style: configurar la tipografía y sus colores
+style: configurar el layout y espaciado
+style: configurar letras capitales
+style: configurar responsive
+```
