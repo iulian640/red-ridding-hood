@@ -1,19 +1,20 @@
 # Little Red Riding Hood
 
-Página web del cuento de Caperucita Roja, hecha con HTML y CSS.
+A web page of the Little Red Riding Hood tale, built with HTML and CSS.
 
+🔗 **Live demo:** https://iulian640.github.io/red-ridding-hood/
 
-## Sobre la página
+## About the page
 
-Es una página que recrea el diseño editorial de una revista para contar el cuento de Caperucita Roja. El objetivo era replicar un diseño dado usando solo HTML y CSS.
+A page that recreates a magazine's editorial design to tell the story of Little Red Riding Hood. The goal was to reproduce a given design using only HTML and CSS.
 
-## Tecnologías usadas
+## Tech used
 
 - HTML5
 - CSS3
-- Google Fonts (EB Garamond para el texto y Hanken Grotesk para los títulos)
+- Google Fonts (EB Garamond for the body text and Hanken Grotesk for the headings)
 
-## Estructura del proyecto
+## Project structure
 
 ```
 red-ridding-hood/
@@ -25,27 +26,26 @@ red-ridding-hood/
 └── README.md
 ```
 
-## Qué he practicado
+## What I practiced
 
-- Estructura semántica de HTML
-- Tipografía con Google Fonts
-- Letra capital con `float`
-- Centrar elementos con `max-width` y `margin: auto`
-- Selectores de CSS como `article p` o `article img`
+- Semantic HTML structure
+- Typography with Google Fonts
+- Drop cap with `float`
+- Centering elements with `max-width` and `margin: auto`
+- CSS selectors such as `article p` or `article img`
 
-## Planificación de commits
+## Commit planning
 
 ```
-feat: estructura del html
-feat: añadir imágenes
-feat: añadir el texto del cuento
-style: configurar la tipografía y sus colores
-style: configurar el layout y espaciado
-style: configurar letras capitales
-style: configurar responsive
+feat: HTML structure
+feat: add images
+feat: add the story text
+style: set up typography and colors
+style: set up layout and spacing
+style: set up drop caps
+style: set up responsive design
 ```
 
-## Resultado final
+## Result
 
-<img width="1280" height="1369" alt="image" src="https://github.com/user-attachments/assets/602650c9-1e4a-449e-8687-21be3016db4a" />
-
+<img width="1280" height="1369" alt="Final result of the Little Red Riding Hood page" src="https://github.com/user-attachments/assets/602650c9-1e4a-449e-8687-21be3016db4a" />
